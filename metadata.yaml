@@ -5,6 +5,9 @@ contributor:
     agent_name: Durant, Charles
     gutenberg_agent_id: '52645'
     url: http://www.gutenberg.org/2009/agents/52645
+covers:
+- cover_type: archival
+  image_path: 63877-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dorrance, James French
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '37918'
     url: http://www.gutenberg.org/2009/agents/37918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63877#Never-Fire-First-A-Canadian-Northwest-Mounted-Story
 gutenberg_issued: '2020-11-24'
 gutenberg_type: Text
 identifiers:
